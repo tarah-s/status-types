@@ -1,0 +1,12 @@
+{
+  "name": "status-types",
+  "version": "1.0.0",
+  "description": "Sort through a list and assign each unique status a color",
+  "author": "tarah-s <tarah-s@users.noreply.github.com>",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chroma-js": "^1.3.7",
+    "lodash": "^4.17.10"
+  }
+}
